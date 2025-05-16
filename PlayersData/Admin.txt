@@ -1,0 +1,8 @@
+Username: Admin
+Password: Admin123
+ProfileIcon: 4
+Score: 18
+Wins: 1
+ThemeID: 2
+Powerups: 0
+HighScore: 0

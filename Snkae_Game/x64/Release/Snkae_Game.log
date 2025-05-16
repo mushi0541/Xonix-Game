@@ -1,0 +1,190 @@
+﻿  Authentication.cpp
+F:\Group52\Group52 Game\Snkae_Game\Authentication.cpp(89,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FriendRequest.cpp
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(401,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(401,77): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(401,77): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(401,77): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(401,77): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(401,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(401,56): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(401,56): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(401,56): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(401,56): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(437,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(444,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(452,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(538,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(538,73): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(538,73): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(538,73): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(538,73): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(538,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(538,52): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(538,52): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(538,52): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(538,52): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(632,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(632,77): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(632,77): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(632,77): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(632,77): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(632,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(632,56): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(632,56): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(632,56): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(632,56): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(776,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(776,73): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(776,73): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(776,73): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(776,73): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(776,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(776,52): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(776,52): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(776,52): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(776,52): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(1053,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(1053,73): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(1053,73): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(1053,73): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(1053,73): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(1053,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(1053,52): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(1053,52): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(1053,52): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\FriendRequest.cpp(1053,52): warning C4244:         ]
+  Game.cpp
+F:\Group52\Group52 Game\Snkae_Game\Game.h(34,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+F:\Group52\Group52 Game\Snkae_Game\Game.h(35,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+F:\Group52\Group52 Game\Snkae_Game\Game.h(66,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+F:\Group52\Group52 Game\Snkae_Game\Game.h(66,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(445,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(445,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(451,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(451,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1182,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1182,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1191,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1191,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1202,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1202,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1339,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1339,77): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1339,77): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1339,77): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1339,77): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1339,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1339,56): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1339,56): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1339,56): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1339,56): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1451,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1451,73): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1451,73): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1451,73): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1451,73): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1451,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1451,52): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1451,52): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1451,52): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\Game.cpp(1451,52): warning C4244:         ]
+  Inventory.cpp
+F:\Group52\Group52 Game\Snkae_Game\Inventory.cpp(454,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Inventory.cpp(454,61): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\Inventory.cpp(454,61): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\Inventory.cpp(454,61): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\Inventory.cpp(454,61): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\Inventory.cpp(454,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\Inventory.cpp(454,40): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\Inventory.cpp(454,40): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\Inventory.cpp(454,40): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\Inventory.cpp(454,40): warning C4244:         ]
+  LeaderBoard.cpp
+  MatchSimulator.cpp
+F:\Group52\Group52 Game\Snkae_Game\MatchSimulator.cpp(121,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MatchSimulator.cpp(152,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MatchSimulator.cpp(475,55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MatchSimulator.cpp(580,62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MenuHandler.cpp
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(293,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(293,73): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(293,73): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(293,73): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(293,73): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(293,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(293,52): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(293,52): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(293,52): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(293,52): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(554,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(554,73): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(554,73): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(554,73): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(554,73): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(554,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(554,52): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(554,52): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(554,52): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(554,52): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(845,58): warning C4390: ';': empty controlled statement found; is this the intent?
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1023,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1028,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1033,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1089,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1089,73): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1089,73): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1089,73): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1089,73): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1089,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1089,52): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1089,52): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1089,52): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1089,52): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1019,13): warning C4101: 'row': unreferenced local variable
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1231,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1231,73): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1231,73): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1231,73): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1231,73): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1231,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1231,52): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1231,52): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1231,52): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1231,52): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1265,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1265,57): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1265,57): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1265,57): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1265,57): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1265,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1265,38): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1265,38): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1265,38): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1265,38): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1386,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1386,61): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1386,61): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1386,61): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1386,61): warning C4244:         ]
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1386,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1386,40): warning C4244:         with
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1386,40): warning C4244:         [
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1386,40): warning C4244:             T=float
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1386,40): warning C4244:         ]
+  SoundBufferHandler.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1430): warning C4715: 'MenuHandler::mainMenu': not all control paths return a value
+F:\Group52\Group52 Game\Snkae_Game\MenuHandler.cpp(1483): warning C4715: 'MenuHandler::handleMainMenuLoop': not all control paths return a value
+  All 461 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snkae_Game.vcxproj -> F:\Group52\Group52 Game\x64\Release\Snkae_Game.exe

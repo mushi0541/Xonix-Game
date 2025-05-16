@@ -1,0 +1,46 @@
+﻿  Game.cpp
+F:\DS PROJECT\Snkae_Game\Game.h(34,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+F:\DS PROJECT\Snkae_Game\Game.h(35,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+F:\DS PROJECT\Snkae_Game\Game.h(66,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+F:\DS PROJECT\Snkae_Game\Game.h(66,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+F:\DS PROJECT\Snkae_Game\Game.cpp(445,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(445,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(451,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(451,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1182,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1182,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1191,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1191,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1197,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1197,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1329,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1329,77): warning C4244:         with
+F:\DS PROJECT\Snkae_Game\Game.cpp(1329,77): warning C4244:         [
+F:\DS PROJECT\Snkae_Game\Game.cpp(1329,77): warning C4244:             T=float
+F:\DS PROJECT\Snkae_Game\Game.cpp(1329,77): warning C4244:         ]
+F:\DS PROJECT\Snkae_Game\Game.cpp(1329,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1329,56): warning C4244:         with
+F:\DS PROJECT\Snkae_Game\Game.cpp(1329,56): warning C4244:         [
+F:\DS PROJECT\Snkae_Game\Game.cpp(1329,56): warning C4244:             T=float
+F:\DS PROJECT\Snkae_Game\Game.cpp(1329,56): warning C4244:         ]
+F:\DS PROJECT\Snkae_Game\Game.cpp(1441,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1441,73): warning C4244:         with
+F:\DS PROJECT\Snkae_Game\Game.cpp(1441,73): warning C4244:         [
+F:\DS PROJECT\Snkae_Game\Game.cpp(1441,73): warning C4244:             T=float
+F:\DS PROJECT\Snkae_Game\Game.cpp(1441,73): warning C4244:         ]
+F:\DS PROJECT\Snkae_Game\Game.cpp(1441,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\DS PROJECT\Snkae_Game\Game.cpp(1441,52): warning C4244:         with
+F:\DS PROJECT\Snkae_Game\Game.cpp(1441,52): warning C4244:         [
+F:\DS PROJECT\Snkae_Game\Game.cpp(1441,52): warning C4244:             T=float
+F:\DS PROJECT\Snkae_Game\Game.cpp(1441,52): warning C4244:         ]
+  SoundBufferHandler.cpp
+  Generating Code...
+  Snkae_Game.vcxproj -> F:\DS PROJECT\x64\Debug\Snkae_Game.exe

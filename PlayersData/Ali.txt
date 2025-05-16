@@ -1,0 +1,9 @@
+Username: Ali
+Password: Mushahid.1
+ProfileIcon: 2
+Score: 439
+Wins: 4
+ThemeID: 2
+Powerups: 6
+HighScore: 280
+

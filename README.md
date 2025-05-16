@@ -7,7 +7,6 @@ This project is a C++ implementation of the classic Xonix arcade game, developed
 The game offers various features including different play modes, comprehensive user account management, data persistence, and competitive elements, built demonstrating the direct application of custom-coded data structures.
 
 ## Screenshots
-For example:
 ![Login/Signup Page:](ScreenShots/1.png)
 ![SignUp Page:](ScreenShots/2.png)
 ![Login Page:](ScreenShots/3.png)
@@ -86,8 +85,6 @@ This should build and run the game.
 
 * This project was completed for the **Data Structures Course** at **FAST University Islamabad**.
 * Special thanks to my team member, **Taha Malik**.
-* Thanks to the SFML team for the graphics and input library.
-* [Any other individuals, resources, or professors you want to thank]
 
 ## License
 
